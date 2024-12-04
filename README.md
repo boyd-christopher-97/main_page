@@ -1,6 +1,6 @@
 # Christopher Boyd
 
-### Data Scientist | j.christopher.boyd97@gmail.com | Henderson, Nevada | [LinkedIn](#) | [GitHub](#)
+### Data Scientist | j.christopher.boyd97@gmail.com | Henderson, Nevada 
 
 ## Overview
 
@@ -39,5 +39,5 @@ Created a neural network to classify news articles into categories such as scien
 - Python and Software Engineering for Data Science.
 - Machine Learning, Neural Networks, and Advanced Applications.
 
-### University of Nevada Las Vegas | Bachelor's in Computer Science | GPA: 3.4
+### University of Nevada Las Vegas | Bachelor's in Computer Science | DEC 2023
 - Relevant Coursework: Data Science, Machine Learning, Data Structures, Algorithms, Database Management.
